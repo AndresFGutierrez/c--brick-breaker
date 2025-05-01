@@ -1,0 +1,22 @@
+# Archivos de compilación y temporales
+bin/
+obj/
+*.user
+*.suo
+*.cache
+*.log
+
+# Configuración de Visual Studio
+.vs/
+*.dbmdl
+*.psess
+*.vsp
+*.pdb
+
+# Archivos personales de usuario
+*.userprefs
+*.csproj.user
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
